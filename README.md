@@ -6,4 +6,4 @@
 - [x] Play
 - [x] Sleep
 - [x] Exercise
-- [] Work 
+- [ ] Work 
