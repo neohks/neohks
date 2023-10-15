@@ -3,7 +3,7 @@
 
 # Get to know me
 - [x] Eat
-- [x] Play
-- [x] Sleep
+- [] Play
+- [] Sleep
 - [x] Exercise
-- [ ] Work 
+- [x] Work 
